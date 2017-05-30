@@ -5,4 +5,4 @@ The application predicts the price of diamonds.
 
 The final result can be seen [**here**] (https://kjw101489.shinyapps.io/jinjin/).
 
-The presentation explaining the application can be seen [**here**](https://github.com/kjw101489/Course-Project-Shiny-Application-and-Reproducible-Pitch-.)
+The presentation explaining the application can be seen [**here**](http://rpubs.com/kjw101489/280698)
